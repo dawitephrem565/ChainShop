@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChainShop</string>
+    <string name="title_activity_myprodyct_setting">Myprodyct_setting</string>
+    <string name="tab_text_1">My Product</string>
+    <string name="tab_text_2">Pinned</string>
+    <string name="title_activity_pro__tab">Pro_Tab</string>
+</resources>

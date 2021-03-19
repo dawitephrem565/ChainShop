@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733904599357",
+    "firebase_url": "https://adey-dc43b.firebaseio.com",
+    "project_id": "adey-dc43b",
+    "storage_bucket": "adey-dc43b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733904599357:android:2a4f52186c247602f7ed54",
+        "android_client_info": {
+          "package_name": "com.filenber.chainshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733904599357-vtc81jfdiing902jk1n48n6egi1pj805.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.filenber.chainshop",
+            "certificate_hash": "7656b64f93ab724e282a53ecd7f5354da20b3072"
+          }
+        },
+        {
+          "client_id": "733904599357-aq8m8ahbik8co433nv9a3pe71fbu9s8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiE2Gw6LXtLw0dxU4diOASfoh5B4_z5qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733904599357-aq8m8ahbik8co433nv9a3pe71fbu9s8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
